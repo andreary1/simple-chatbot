@@ -41,14 +41,6 @@ A chatbot built in Python that can analyze and converse about content from websi
    venv\Scripts\activate      # Windows
    ```
 
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## 🔑 Environment Variables
 
 Before running, set your **Groq API key**:
