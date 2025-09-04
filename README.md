@@ -57,9 +57,6 @@ Before running, set your **Groq API key**:
 export GROQ_API_KEY="your_api_key_here"   # Linux/Mac
 setx GROQ_API_KEY "your_api_key_here"     # Windows (PowerShell)
 ```
-Here’s a **README.md** draft you can use as documentation for *How to Get Your Groq API Key*:
-
----
 
 ## 🔑 How to Get Your Groq API Key
 
